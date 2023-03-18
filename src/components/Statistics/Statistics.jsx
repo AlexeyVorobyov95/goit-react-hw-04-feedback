@@ -10,7 +10,7 @@ export const Statistics = ({
   positivePercentage,
 }) => {
   return (
-    // console.log(total)
+   
     <>
       <Title>Statistics</Title>
       <Text>
